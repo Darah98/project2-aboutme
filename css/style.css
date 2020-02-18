@@ -1,0 +1,90 @@
+body{
+    background-color: aquamarine;
+}
+header h1 {
+    font-family: cursive;
+    text-align: center;
+    background-color: #426558;
+    color: aquamarine;
+    padding: 40px;
+    font-size: 4em;
+    border: solid;
+    border-color: #5faf90;
+    border-width: thick;
+    opacity: 0.9;
+    border-radius: 30px;
+}
+a {
+    text-decoration: none;
+    color: rgb(158, 214, 195);
+
+}
+nav ul {
+    font-family: cursive;
+    text-align: center;
+    background-color: #426558;
+    font-size: 20px;
+    border: solid;
+    border-color: #5faf90;
+    border-width: thick;
+    opacity: 0.9;
+    border-radius: 30px;
+}
+nav ul li {
+    font-family: cursive;
+    display: inline-block;
+    color: rgb(158, 214, 195);
+    padding: 10px 90px;
+}
+header h2 {
+    font-size: 30px;
+    font-family: cursive;
+    color: #426558;
+    padding: 40px 50px;
+}
+header h3 {
+    font-size: 20px;
+    font-family: cursive;
+    color: #426558;
+    padding: 0px 50px 50px 30px;
+}
+article{
+    font-size: 15px;
+    font-family: cursive;
+    color: #426558;
+    padding: 0px 20px 40px 20px;
+}
+main p{
+    font-size: 15px;
+    font-family: cursive;
+    color: aquamarine;
+    background-color: red;
+    opacity: 0.5;
+    display: inline-block;
+    text-align: center;
+    margin: 0 50px 25px 50px;
+}
+main h4{
+    font-size: 20px;
+    font-family: cursive;
+    color: #426558;
+    padding: 10px 50px 10px 20px;
+}
+footer p{
+    font-family: cursive;
+    text-align: center;
+    color: aquamarine;
+    background-color: #426558;
+    padding: 6px;
+    font-size: 12px;
+    border: solid;
+    border-color: #5faf90;
+    opacity: 0.9;
+}
+header p{
+    font-size: 15px;
+    font-family: cursive;
+    color: #aa5749;
+    text-align: right;
+    padding: 0px 10px 50px 150px;
+}
