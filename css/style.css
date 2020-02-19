@@ -40,7 +40,7 @@ header h2 {
     font-size: 30px;
     font-family: cursive;
     color: #426558;
-    padding: 40px 50px;
+    padding: 40px 20px;
 }
 header h3 {
     font-size: 20px;
@@ -82,9 +82,21 @@ footer p{
     opacity: 0.9;
 }
 header p{
-    font-size: 15px;
+    font-size: 20px;
     font-family: cursive;
     color: #aa5749;
     text-align: right;
-    padding: 0px 10px 50px 150px;
+    padding: 0px 10px 30px 150px;
+}
+#listTitle{
+    font-size: 20px;
+    font-family: cursive;
+    color: #426558;
+    padding: 10px 50px 10px 20px;
+}
+main ol{
+    font-size: 15px;
+    font-family: cursive;
+    color: #426558;
+    padding: 0px 20px 40px 20px;
 }
